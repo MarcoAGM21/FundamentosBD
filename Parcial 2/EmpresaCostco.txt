@@ -1,0 +1,10 @@
+La empresa costco necesita una base de datos en la cual tiene clientes, 
+provedores, productos, empleados de diferentes departamentos, y cada cliente 
+debe tener una membresia para acceder a ello igual pasado medio año a los empleados 
+se les asigna una membresia para hacer compras dentro de las sucursales, tambien la sucursal 
+tieneun area de servicio un servicio de refacciones de automovil en la cual se hace 
+cambio y venta de llantas, cada producto tiene su categoria, precio, dimenciones, numero de producto
+estos a su vez tambien se les tiene la cantidad existente en almacen, cada cliente se tiene los datos de 
+numero de telefono, email, direccion y si tiene cuentas asociadas a la misma membresia ya que una 
+membresia puede tener mas de un cliente, para provedores tenemos el numero de contacto ,
+ el nombre de la empresa, su categoria, un email y precio
